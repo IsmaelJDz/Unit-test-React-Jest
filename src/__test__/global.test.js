@@ -58,8 +58,8 @@ test("Probar async/await", async () => {
 });
 
 //funcion que me sirve correr codigo antes de cada prueba
-afterEach(() => console.log("Despues de cada prueba"));
-afterAll(() => console.log("Despues de todas las pruebas"));
+//afterEach(() => console.log("Despues de cada prueba"));
+//afterAll(() => console.log("Despues de todas las pruebas"));
 
-beforeEach(() => console.log("Antes de tdoas las pruebas"));
-beforeAll(() => console.log("Antes de todas las pruebas"));
+//beforeEach(() => console.log("Antes de tdoas las pruebas"));
+//beforeAll(() => console.log("Antes de todas las pruebas"));

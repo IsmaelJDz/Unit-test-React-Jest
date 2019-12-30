@@ -6,7 +6,8 @@
   "author": "IsmaelJdz7",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "dependencies": {
     "jest": "^24.9.0"
