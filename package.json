@@ -1,0 +1,14 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "pruebas con jest",
+  "main": "index.js",
+  "author": "IsmaelJdz7",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
